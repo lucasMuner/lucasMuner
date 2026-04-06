@@ -20,14 +20,13 @@
 
 ## 🚀 Habilidades
 
-### Linguagens
-[![Linguagens](https://skillicons.dev/icons?i=php,js,dart,python,java&theme=dark&perline=5)](https://skillicons.dev)
+<div align="center">
 
-### Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=laravel,flutter,django,spring&theme=dark&perline=5)](https://skillicons.dev)
+| Linguagens | Frameworks | Ferramentas |
+|:---:|:---:|:---:|
+| [![Linguagens](https://skillicons.dev/icons?i=php,js,dart,python,java&theme=dark&perline=5)](https://skillicons.dev) | [![Frameworks](https://skillicons.dev/icons?i=laravel,flutter,django,spring&theme=dark&perline=4)](https://skillicons.dev) | [![Ferramentas](https://skillicons.dev/icons?i=git,docker,firebase,mysql&theme=dark&perline=4)](https://skillicons.dev) |
 
-### Ferramentas
-[![Ferramentas](https://skillicons.dev/icons?i=git,docker,firebase,mysql&theme=dark&perline=5)](https://skillicons.dev)
+</div>
 
 ## 📊 GitHub Stats
 
