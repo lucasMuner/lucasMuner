@@ -13,14 +13,6 @@
 
 </div>
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/lucasmuner">
-  <img src="https://img.shields.io/badge/--%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2" width="50" height="50"/>
-</a>
-
-</div>
-
 </div>
 
 ## 💼 Sobre mim
